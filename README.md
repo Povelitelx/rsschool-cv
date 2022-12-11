@@ -1,1 +1,1 @@
-# [rsschool-cv][https://Povelitelx.github.io/rsschool-cv/cv]
+# [rsschool-cv](https://Povelitelx.github.io/rsschool-cv/cv)
