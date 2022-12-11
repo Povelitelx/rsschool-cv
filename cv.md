@@ -40,4 +40,4 @@ I have experience with HTML and CSS
 
 ## Language:
 
-English level A2 - now;
+English level A2;
