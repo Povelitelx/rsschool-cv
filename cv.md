@@ -7,10 +7,9 @@
 * Discord: PoveliteL#1912;
 * E-mail: tumezo2008@gmail.com;
 * Tel: +375-25-932-63-41;
+* telegram: +375-25-932-63-41;
 
 ## About myself:
-
-
 
 I have a great desire to learn JavaScript and become a good specialist in this field.
 Previously, I studied Html and Css markup languages on my own.
@@ -41,4 +40,4 @@ I have experience with HTML and CSS
 
 ## Language:
 
-English level A2
+English level A2 - now;
